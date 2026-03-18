@@ -1,3 +1,4 @@
+from __future__ import annotations  # work with Python<3.8
 from typing import Optional
 
 import numpy as np
